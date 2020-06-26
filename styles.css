@@ -17,11 +17,7 @@ html {
   height: 100vh;
   width: 100%;
 }
-.bghighlight {
-  width: 85vw;
-  margin:auto;
-  height: 100%;
-}
+
 #songWrapper {
   grid-area: songs;
   display: flex;
